@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Dinesh Kapu</h1>
 <h3 align="center">A passionate Full Stack Developer and Software Developer</h3>
-<img align="right" alt="coding" width="400" src="C:\Users\lenovo\Desktop\profile1.jpg">
+<img align="right" alt="coding" width="400" src="https://i.pinimg.com/736x/24/68/a1/2468a19e048308eabf19eabc4a2ce7a7.jpg">
 -👨‍💻Portfolio-(https://dinesh-portfolio-indol.vercel.app/)
 
 - 💬 Ask me about **MERN(MongoDB,ExpressJS,ReactJS,NodeJS)**
